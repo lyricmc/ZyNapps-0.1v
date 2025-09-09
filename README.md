@@ -1,6 +1,6 @@
 # 🦸‍♂️ ZyNapps - Versión Base  
 
-🚀 **Creado por: ZyNapps**  
+🚀 **Creado por: lyric._7**  
 ⚡ **Código Base Oficial**
 
 ---
